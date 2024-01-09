@@ -449,38 +449,19 @@
 1F4EF ;	emoji ;	L1 ;	none ;	x	# V6.0 (📯) POSTAL HORN
 1F4F0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📰) NEWSPAPER
 1F4F1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📱) MOBILE PHONE
-1F4F2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📲) MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT
-1F4F3 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📳) VIBRATION MODE
-1F4F4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📴) MOBILE PHONE OFF
-1F4F5 ;	emoji ;	L1 ;	none ;	x	# V6.0 (📵) NO MOBILE PHONES
-1F4F6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📶) ANTENNA WITH BARS
 1F4F7 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📷) CAMERA
-1F4F8 ;	emoji ;	L2 ;	none ;	x	# V7.0 (📸) CAMERA WITH FLASH
 1F4F9 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📹) VIDEO CAMERA
 1F4FA ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📺) TELEVISION
 1F4FB ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📻) RADIO
-1F4FC ;	emoji ;	L1 ;	none ;	j	# V6.0 (📼) VIDEOCASSETTE
-1F4FF ;	emoji ;	L2 ;	none ;	x	# V8.0 (📿) PRAYER BEAD
-1F505 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🔅) LOW BRIGHTNESS SYMBOL
-1F506 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🔆) HIGH BRIGHTNESS SYMBOL
-1F507 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🔇) SPEAKER WITH CANCELLATION STROKE
 1F508 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🔈) SPEAKER
 1F509 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🔉) SPEAKER WITH ONE SOUND WAVE
 1F50A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔊) SPEAKER WITH THREE SOUND WAVES
 1F50B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔋) BATTERY
-1F50C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔌) ELECTRIC PLUG
 1F50D ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🔍) LEFT-POINTING MAGNIFYING GLASS
-1F50E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔎) RIGHT-POINTING MAGNIFYING GLASS
-1F50F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔏) LOCK WITH INK PEN
-1F510 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔐) CLOSED LOCK WITH KEY
 1F511 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔑) KEY
 1F512 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🔒) LOCK
 1F513 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🔓) OPEN LOCK
 1F514 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔔) BELL
-1F515 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🔕) BELL WITH CANCELLATION STROKE
-1F516 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔖) BOOKMARK
-1F517 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔗) LINK SYMBOL
-1F518 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔘) RADIO BUTTON
 1F525 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔥) FIRE
 1F526 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔦) ELECTRIC TORCH
 1F527 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔧) WRENCH
