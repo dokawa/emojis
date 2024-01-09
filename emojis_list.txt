@@ -525,18 +525,6 @@
 1F52F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔯) SIX POINTED STAR WITH MIDDLE DOT
 1F530 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔰) JAPANESE SYMBOL FOR BEGINNER
 1F531 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔱) TRIDENT EMBLEM
-1F532 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔲) BLACK SQUARE BUTTON
-1F533 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔳) WHITE SQUARE BUTTON
-1F534 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔴) LARGE RED CIRCLE
-1F535 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔵) LARGE BLUE CIRCLE
-1F536 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔶) LARGE ORANGE DIAMOND
-1F537 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔷) LARGE BLUE DIAMOND
-1F538 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔸) SMALL ORANGE DIAMOND
-1F539 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔹) SMALL BLUE DIAMOND
-1F53A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔺) UP-POINTING RED TRIANGLE
-1F53B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔻) DOWN-POINTING RED TRIANGLE
-1F53C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔼) UP-POINTING SMALL RED TRIANGLE
-1F53D ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔽) DOWN-POINTING SMALL RED TRIANGLE
 1F54B ;	emoji ;	L2 ;	none ;	x	# V8.0 (🕋) KAAB
 1F54C ;	emoji ;	L2 ;	none ;	x	# V8.0 (🕌) MOSQUE
 1F54D ;	emoji ;	L2 ;	none ;	x	# V8.0 (🕍) SYNAGOGUE
