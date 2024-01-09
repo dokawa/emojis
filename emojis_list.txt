@@ -24,7 +24,6 @@
 2728 ;	emoji ;	L1 ;	none ;	j	# V6.0 (✨) SPARKLE
 274E ;	emoji ;	L1 ;	none ;	j	# V6.0 (❎) NEGATIVE SQUARED CROSS MARK
 2B50 ;	emoji ;	L1 ;	none ;	j	# V5.1 (⭐) WHITE MEDIUM STAR
-2B55 ;	emoji ;	L1 ;	none ;	j	# V5.2 (⭕) HEAVY LARGE CIRCLE
 1F300 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌀) CYCLONE
 1F301 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌁) FOGGY
 1F302 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌂) CLOSED UMBRELLA
