@@ -392,28 +392,7 @@
 1F4B6 ;	emoji ;	L1 ;	none ;	x	# V6.0 (💶) BANKNOTE WITH EURO SIGN
 1F4B7 ;	emoji ;	L1 ;	none ;	x	# V6.0 (💷) BANKNOTE WITH POUND SIGN
 1F4B8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💸) MONEY WITH WINGS
-1F4B9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💹) CHART WITH UPWARDS TREND AND YEN SIGN
-1F4BA ;	emoji ;	L1 ;	none ;	j	# V6.0 (💺) SEAT
 1F4BB ;	emoji ;	L1 ;	none ;	j w	# V6.0 (💻) PERSONAL COMPUTER
-1F4BC ;	emoji ;	L1 ;	none ;	j	# V6.0 (💼) BRIEFCASE
-1F4BD ;	emoji ;	L1 ;	none ;	j	# V6.0 (💽) MINIDISC
-1F4BE ;	emoji ;	L1 ;	none ;	j	# V6.0 (💾) FLOPPY DISK
-1F4BF ;	emoji ;	L1 ;	none ;	j w	# V6.0 (💿) OPTICAL DISC
-1F4C0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📀) DVD
-1F4C1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📁) FILE FOLDER
-1F4C2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📂) OPEN FILE FOLDER
-1F4C3 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📃) PAGE WITH CURL
-1F4C4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📄) PAGE FACING UP
-1F4C5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📅) CALENDAR
-1F4C6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📆) TEAR-OFF CALENDAR
-1F4C7 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📇) CARD INDEX
-1F4C8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📈) CHART WITH UPWARDS TREND
-1F4C9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📉) CHART WITH DOWNWARDS TREND
-1F4CA ;	emoji ;	L1 ;	none ;	j	# V6.0 (📊) BAR CHART
-1F4CB ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📋) CLIPBOARD
-1F4CC ;	emoji ;	L1 ;	none ;	j	# V6.0 (📌) PUSHPIN
-1F4CD ;	emoji ;	L1 ;	none ;	j	# V6.0 (📍) ROUND PUSHPIN
-1F4CE ;	emoji ;	L1 ;	none ;	j	# V6.0 (📎) PAPERCLIP
 1F4CF ;	emoji ;	L1 ;	none ;	j	# V6.0 (📏) STRAIGHT RULER
 1F4D0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📐) TRIANGULAR RULER
 1F4D1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📑) BOOKMARK TABS
