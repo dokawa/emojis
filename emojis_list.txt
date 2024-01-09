@@ -481,18 +481,6 @@
 1F516 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔖) BOOKMARK
 1F517 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔗) LINK SYMBOL
 1F518 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔘) RADIO BUTTON
-1F519 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔙) BACK WITH LEFTWARDS ARROW ABOVE
-1F51A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔚) END WITH LEFTWARDS ARROW ABOVE
-1F51B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔛) ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE
-1F51C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔜) SOON WITH RIGHTWARDS ARROW ABOVE
-1F51D ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔝) TOP WITH UPWARDS ARROW ABOVE
-1F51E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔞) NO ONE UNDER EIGHTEEN SYMBOL
-1F51F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔟) KEYCAP TEN
-1F520 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔠) INPUT SYMBOL FOR LATIN CAPITAL LETTERS
-1F521 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔡) INPUT SYMBOL FOR LATIN SMALL LETTERS
-1F522 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔢) INPUT SYMBOL FOR NUMBERS
-1F523 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔣) INPUT SYMBOL FOR SYMBOLS
-1F524 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔤) INPUT SYMBOL FOR LATIN LETTERS
 1F525 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔥) FIRE
 1F526 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔦) ELECTRIC TORCH
 1F527 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔧) WRENCH
