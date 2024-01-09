@@ -654,20 +654,8 @@
 1F6A8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚨) POLICE CARS REVOLVING LIGHT
 1F6A9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚩) TRIANGULAR FLAG ON POST
 1F6AA ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚪) DOOR
-1F6AB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚫) NO ENTRY SIGN
 1F6AC ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚬) SMOKING SYMBOL
-1F6AD ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚭) NO SMOKING SYMBOL
-1F6AE ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚮) PUT LITTER IN ITS PLACE SYMBOL
-1F6AF ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚯) DO NOT LITTER SYMBOL
-1F6B0 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚰) POTABLE WATER SYMBOL
-1F6B1 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚱) NON-POTABLE WATER SYMBOL
 1F6B2 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚲) BICYCLE
-1F6B3 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚳) NO BICYCLES
-1F6B4 ;	emoji ;	L1 ;	secondary ;	x	# V6.0 (🚴) BICYCLIST
-1F6B5 ;	emoji ;	L1 ;	secondary ;	x	# V6.0 (🚵) MOUNTAIN BICYCLIST
-1F6B6 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🚶) PEDESTRIAN
-1F6B7 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚷) NO PEDESTRIANS
-1F6B8 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚸) CHILDREN CROSSING
 1F6BD ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚽) TOILET
 1F6BF ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚿) SHOWER
 1F6C0 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🛀) BATH
