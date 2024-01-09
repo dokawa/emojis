@@ -316,9 +316,6 @@
 1F468 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👨) MAN
 1F469 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👩) WOMAN
 1F46A ;	emoji ;	L1 ;	none ;	j w	# V6.0 (👪) FAMILY
-1F46B ;	emoji ;	L1 ;	none ;	j	# V6.0 (👫) MAN AND WOMAN HOLDING HANDS
-1F46C ;	emoji ;	L1 ;	none ;	x	# V6.0 (👬) TWO MEN HOLDING HANDS
-1F46D ;	emoji ;	L1 ;	none ;	x	# V6.0 (👭) TWO WOMEN HOLDING HANDS
 1F46E ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👮) POLICE OFFICER
 1F46F ;	emoji ;	L1 ;	none ;	j	# V6.0 (👯) WOMAN WITH BUNNY EARS
 1F470 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👰) BRIDE WITH VEIL
