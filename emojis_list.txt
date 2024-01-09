@@ -120,26 +120,11 @@
 1F380 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎀) RIBBON
 1F381 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎁) WRAPPED PRESENT
 1F382 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎂) BIRTHDAY CAKE
-1F383 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎃) JACK-O-LANTERN
 1F384 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎄) CHRISTMAS TREE
-1F385 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (🎅) FATHER CHRISTMAS
-1F386 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎆) FIREWORKS
-1F387 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎇) FIREWORK SPARKLER
 1F388 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎈) BALLOON
 1F389 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎉) PARTY POPPER
-1F38A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎊) CONFETTI BALL
-1F38B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎋) TANABATA TREE
-1F38C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎌) CROSSED FLAGS
-1F38D ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎍) PINE DECORATION
-1F38F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎏) CARP STREAMER
-1F390 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎐) WIND CHIME
-1F391 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎑) MOON VIEWING CEREMONY
-1F392 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎒) SCHOOL SATCHEL
 1F393 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎓) GRADUATION CAP
 1F3A0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎠) CAROUSEL HORS
-1F3A1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎡) FERRIS WHEEL
-1F3A2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎢) ROLLER COASTER
-1F3A3 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎣) FISHING POLE AND FISH
 1F3A4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎤) MICROPHONE
 1F3A5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎥) MOVIE CAMERA
 1F3A6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎦) CINEMA
