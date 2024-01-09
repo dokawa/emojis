@@ -27,15 +27,6 @@
 2728 ;	emoji ;	L1 ;	none ;	j	# V6.0 (✨) SPARKLE
 274C ;	emoji ;	L1 ;	none ;	j	# V6.0 (❌) CROSS MRK
 274E ;	emoji ;	L1 ;	none ;	j	# V6.0 (❎) NEGATIVE SQUARED CROSS MARK
-2753 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (❓) BLACK QUESTION MARK ORNAMENT
-2754 ;	emoji ;	L1 ;	none ;	j	# V6.0 (❔) WHITE QUESTION MARK ORNAMENT
-2755 ;	emoji ;	L1 ;	none ;	j	# V6.0 (❕) WHITE EXCLAMATION MARK ORNAMENT
-2757 ;	emoji ;	L1 ;	none ;	j	# V5.2 (❗) HEAVY EXCLAMATION MARK SYMBOL
-2795 ;	emoji ;	L1 ;	none ;	j	# V6.0 (➕) HEAVY PLUS SIG
-2796 ;	emoji ;	L1 ;	none ;	j	# V6.0 (➖) HEAVY MINUS SIGN
-2797 ;	emoji ;	L1 ;	none ;	j	# V6.0 (➗) HEAVY DIVISION SIGN
-27B0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (➰) CURLY LOO
-27BF ;	emoji ;	L1 ;	none ;	x	# V6.0 (➿) DOUBLE CURLY LOOP
 2B1B ;	emoji ;	L1 ;	none ;	a j w	# V5.1 (⬛) BLACK LARGE QUARE
 2B1C ;	emoji ;	L1 ;	none ;	j w	# V5.1 (⬜) WHITE LARGE SQUARE
 2B50 ;	emoji ;	L1 ;	none ;	j	# V5.1 (⭐) WHITE MEDIUM STAR
