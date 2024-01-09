@@ -7,8 +7,6 @@
 267F ;	emoji ;	L1 ;	none ;	j w	# V4.1 (♿) WHEELHAIR SYMBOL
 2693 ;	emoji ;	L1 ;	none ;	a j	# V4.1 (⚓) ANCHO
 26A1 ;	emoji ;	L1 ;	none ;	a j	# V4.0 (⚡) HIGH OLTAGE SIGN
-26AA ;	emoji ;	L1 ;	none ;	j	# V4.1 (⚪) MEDIUM WHITE CIRCLE
-26AB ;	emoji ;	L1 ;	none ;	j w	# V4.1 (⚫) MEDIUM BLACK CIRCLE
 26BD ;	emoji ;	L1 ;	none ;	j	# V5.2 (⚽) SOCCER BAL
 26BE ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⚾) BASEBALL
 26C4 ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛄) SNOWMAN WITHOUT SNOW
