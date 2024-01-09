@@ -38,15 +38,6 @@
 1F30E ;	emoji ;	L1 ;	none ;	w	# V6.0 (🌎) EARTH GLOBE AMERICAS
 1F30F ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🌏) EARTH GLOBE ASIA-AUSTRALIA
 1F310 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌐) GLOBE WITH MERIDIANS
-1F311 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌑) NEW MOON SYMBOL
-1F312 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌒) WAXING CRESCENT MOON SYMBOL
-1F313 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌓) FIRST QUARTER MOON SYMBOL
-1F314 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌔) WAXING GIBBOUS MOON SYMBOL
-1F315 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🌕) FULL MOON SYMBOL
-1F316 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌖) WANING GIBBOUS MOON SYMBOL
-1F317 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌗) LAST QUARTER MOON SYMBOL
-1F318 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌘) WANING CRESCENT MOON SYMBOL
-1F319 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌙) CRESCENT MOON
 1F31A ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌚) NEW MOON WITH FACE
 1F31B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌛) FIRST QUARTER MOON WITH FACE
 1F31C ;	emoji ;	L1 ;	none ;	w	# V6.0 (🌜) LAST QUARTER MOON WITH FACE
