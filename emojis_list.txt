@@ -302,9 +302,4 @@
 1F916 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🤖) ROBOT FACE
 1F917 ;	emoji ;	L2 ;	secondary ;	x	# V8.0 (🤗) HUGGING FACE
 1F918 ;	emoji ;	L2 ;	secondary ;	x	# V8.0 (🤘) SIGN OF THE HORNS
-1F980 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🦀) CRAB
-1F981 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🦁) LION FACE
-1F982 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🦂) SCORPION
-1F983 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🦃) TURKEY
-1F984 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🦄) UNICORN FACE
 1F9C0 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🧀) CHEESE WEDGE
