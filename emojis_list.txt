@@ -29,10 +29,7 @@
 1F308 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌈) RAINBOW
 1F30A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌊) WATER WAVE
 1F30B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌋) VOLCANO
-1F30D ;	emoji ;	L1 ;	none ;	w	# V6.0 (🌍) EARTH GLOBE EUROPE-AFRICA
 1F30E ;	emoji ;	L1 ;	none ;	w	# V6.0 (🌎) EARTH GLOBE AMERICAS
-1F30F ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🌏) EARTH GLOBE ASIA-AUSTRALIA
-1F310 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌐) GLOBE WITH MERIDIANS
 1F31A ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌚) NEW MOON WITH FACE
 1F31B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌛) FIRST QUARTER MOON WITH FACE
 1F31C ;	emoji ;	L1 ;	none ;	w	# V6.0 (🌜) LAST QUARTER MOON WITH FACE
