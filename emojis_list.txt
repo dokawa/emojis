@@ -26,12 +26,9 @@
 1F300 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌀) CYCLONE
 1F301 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌁) FOGGY
 1F302 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌂) CLOSED UMBRELLA
-1F303 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌃) NIGHT WITH STARS
 1F308 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌈) RAINBOW
-1F309 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌉) BRIDGE AT NIGHT
 1F30A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌊) WATER WAVE
 1F30B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌋) VOLCANO
-1F30C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌌) MILKY WAY
 1F30D ;	emoji ;	L1 ;	none ;	w	# V6.0 (🌍) EARTH GLOBE EUROPE-AFRICA
 1F30E ;	emoji ;	L1 ;	none ;	w	# V6.0 (🌎) EARTH GLOBE AMERICAS
 1F30F ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🌏) EARTH GLOBE ASIA-AUSTRALIA
@@ -42,7 +39,6 @@
 1F31D ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌝) FULL MOON WITH FACE
 1F31E ;	emoji ;	L1 ;	none ;	x	# V6.0 (🌞) SUN WITH FACE
 1F31F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌟) GLOWING STAR
-1F320 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌠) SHOOTING STAR
 1F32D ;	emoji ;	L2 ;	none ;	x	# V8.0 (🌭) HOT DO
 1F32E ;	emoji ;	L2 ;	none ;	x	# V8.0 (🌮) TACO
 1F32F ;	emoji ;	L2 ;	none ;	x	# V8.0 (🌯) BURRITO
