@@ -33,10 +33,6 @@
 1F301 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌁) FOGGY
 1F302 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌂) CLOSED UMBRELLA
 1F303 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌃) NIGHT WITH STARS
-1F304 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌄) SUNRISE OVER MOUNTAINS
-1F305 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌅) SUNRISE
-1F306 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌆) CITYSCAPE AT DUSK
-1F307 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌇) SUNSET OVER BUILDINGS
 1F308 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌈) RAINBOW
 1F309 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌉) BRIDGE AT NIGHT
 1F30A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌊) WATER WAVE
