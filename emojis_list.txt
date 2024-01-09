@@ -435,18 +435,8 @@
 1F4E1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📡) SATELLITE ANTENNA
 1F4E2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📢) PUBLIC ADDRESS LOUDSPEAKER
 1F4E3 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📣) CHEERING MEGAPHONE
-1F4E4 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📤) OUTBOX TRAY
-1F4E5 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📥) INBOX TRAY
 1F4E6 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📦) PACKAGE
-1F4E7 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📧) E-MAIL SYMBOL
 1F4E8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📨) INCOMING ENVELOPE
-1F4E9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📩) ENVELOPE WITH DOWNWARDS ARROW ABOVE
-1F4EA ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📪) CLOSED MAILBOX WITH LOWERED FLAG
-1F4EB ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📫) CLOSED MAILBOX WITH RAISED FLAG
-1F4EC ;	emoji ;	L1 ;	none ;	w	# V6.0 (📬) OPEN MAILBOX WITH RAISED FLAG
-1F4ED ;	emoji ;	L1 ;	none ;	w	# V6.0 (📭) OPEN MAILBOX WITH LOWERED FLAG
-1F4EE ;	emoji ;	L1 ;	none ;	j	# V6.0 (📮) POSTBOX
-1F4EF ;	emoji ;	L1 ;	none ;	x	# V6.0 (📯) POSTAL HORN
 1F4F0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📰) NEWSPAPER
 1F4F1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📱) MOBILE PHONE
 1F4F7 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📷) CAMERA
