@@ -146,18 +146,6 @@
 1F492 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💒) WEDDING
 1F493 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💓) BEATING HEART
 1F494 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💔) BROKEN HEART
-1F495 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💕) TWO HEARTS
-1F496 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💖) SPARKLING HEART
-1F497 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💗) GROWING HEART
-1F498 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💘) HEART WITH ARROW
-1F499 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💙) BLUE HEART
-1F49A ;	emoji ;	L1 ;	none ;	j	# V6.0 (💚) GREEN HEART
-1F49B ;	emoji ;	L1 ;	none ;	j	# V6.0 (💛) YELLOW HEART
-1F49C ;	emoji ;	L1 ;	none ;	j	# V6.0 (💜) PURPLE HEART
-1F49D ;	emoji ;	L1 ;	none ;	j	# V6.0 (💝) HEART WITH RIBBON
-1F49E ;	emoji ;	L1 ;	none ;	j	# V6.0 (💞) REVOLVING HEARTS
-1F49F ;	emoji ;	L1 ;	none ;	j	# V6.0 (💟) HEART DECORATION
-1F4A0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💠) DIAMOND SHAPE WITH A DOT INSIDE
 1F4A1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💡) ELECTRIC LIGHT BULB
 1F4A2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💢) ANGER SYMBOL
 1F4A3 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (💣) BOMB
@@ -173,34 +161,15 @@
 1F4AD ;	emoji ;	L1 ;	none ;	x	# V6.0 (💭) THOUGHT BALLOON
 1F4AE ;	emoji ;	L1 ;	none ;	j	# V6.0 (💮) WHITE FLOWER
 1F4AF ;	emoji ;	L1 ;	none ;	j	# V6.0 (💯) HUNDRED POINTS SYMBOL
-1F4B0 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (💰) MONEY BAG
-1F4B1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💱) CURRENCY EXCHANGE
 1F4B2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💲) HEAVY DOLLAR SIGN
 1F4B3 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (💳) CREDIT CARD
-1F4B4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💴) BANKNOTE WITH YEN SIGN
-1F4B5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💵) BANKNOTE WITH DOLLAR SIGN
-1F4B6 ;	emoji ;	L1 ;	none ;	x	# V6.0 (💶) BANKNOTE WITH EURO SIGN
-1F4B7 ;	emoji ;	L1 ;	none ;	x	# V6.0 (💷) BANKNOTE WITH POUND SIGN
 1F4B8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💸) MONEY WITH WINGS
 1F4BB ;	emoji ;	L1 ;	none ;	j w	# V6.0 (💻) PERSONAL COMPUTER
 1F4CF ;	emoji ;	L1 ;	none ;	j	# V6.0 (📏) STRAIGHT RULER
 1F4D0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📐) TRIANGULAR RULER
-1F4D1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📑) BOOKMARK TABS
-1F4D2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📒) LEDGER
-1F4D3 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📓) NOTEBOOK
-1F4D4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📔) NOTEBOOK WITH DECORATIVE COVER
-1F4D5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📕) CLOSED BOOK
 1F4D6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📖) OPEN BOOK
-1F4D7 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📗) GREEN BOOK
-1F4D8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📘) BLUE BOOK
-1F4D9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📙) ORANGE BOOK
-1F4DA ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📚) BOOKS
-1F4DB ;	emoji ;	L1 ;	none ;	j	# V6.0 (📛) NAME BADGE
 1F4DC ;	emoji ;	L1 ;	none ;	j	# V6.0 (📜) SCROLL
-1F4DD ;	emoji ;	L1 ;	none ;	j	# V6.0 (📝) MEMO
 1F4DE ;	emoji ;	L1 ;	none ;	j	# V6.0 (📞) TELEPHONE RECEIVER
-1F4DF ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📟) PAGER
-1F4E0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📠) FAX MACHINE
 1F4E1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📡) SATELLITE ANTENNA
 1F4E2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📢) PUBLIC ADDRESS LOUDSPEAKER
 1F4E3 ;	emoji ;	L1 ;	none ;	j	# V6.0 (📣) CHEERING MEGAPHONE
@@ -212,10 +181,6 @@
 1F4F9 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📹) VIDEO CAMERA
 1F4FA ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📺) TELEVISION
 1F4FB ;	emoji ;	L1 ;	none ;	j w	# V6.0 (📻) RADIO
-1F508 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🔈) SPEAKER
-1F509 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🔉) SPEAKER WITH ONE SOUND WAVE
-1F50A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔊) SPEAKER WITH THREE SOUND WAVES
-1F50B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔋) BATTERY
 1F50D ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🔍) LEFT-POINTING MAGNIFYING GLASS
 1F511 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔑) KEY
 1F512 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🔒) LOCK
@@ -328,9 +293,6 @@
 1F6C0 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🛀) BATH
 1F6C1 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🛁) BATHTUB
 1F6CC ;	emoji ;	L2 ;	none ;	x	# V7.0 (🛌) SLEEPING ACOMMODATION
-1F6D0 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🛐) PLACE OF WORSHI
-1F6EB ;	emoji ;	L2 ;	none ;	x	# V7.0 (🛫) AIRPLANE DEPARTRE
-1F6EC ;	emoji ;	L2 ;	none ;	x	# V7.0 (🛬) AIRPLANE ARRIVING
 1F910 ;	emoji ;	L2 ;	secondary ;	x	# V8.0 (🤐) ZIPPER-MOUTHFACE
 1F911 ;	emoji ;	L2 ;	secondary ;	x	# V8.0 (🤑) MONEY-MOUTH FACE
 1F912 ;	emoji ;	L2 ;	secondary ;	x	# V8.0 (🤒) FACE WITH THERMOMETER
