@@ -437,30 +437,6 @@
 1F52B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔫) PISTOL
 1F52C ;	emoji ;	L1 ;	none ;	x	# V6.0 (🔬) MICROSCOPE
 1F52D ;	emoji ;	L1 ;	none ;	x	# V6.0 (🔭) TELESCOPE
-1F550 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕐) CLOCK FACE ONE OCLOCK
-1F551 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕑) CLOCK FACE TWO OCLOCK
-1F552 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕒) CLOCK FACE THREE OCLOCK
-1F553 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕓) CLOCK FACE FOUR OCLOCK
-1F554 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕔) CLOCK FACE FIVE OCLOCK
-1F555 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕕) CLOCK FACE SIX OCLOCK
-1F556 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕖) CLOCK FACE SEVEN OCLOCK
-1F557 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕗) CLOCK FACE EIGHT OCLOCK
-1F558 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕘) CLOCK FACE NINE OCLOCK
-1F559 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕙) CLOCK FACE TEN OCLOCK
-1F55A ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕚) CLOCK FACE ELEVEN OCLOCK
-1F55B ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🕛) CLOCK FACE TWELVE OCLOCK
-1F55C ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕜) CLOCK FACE ONE-THIRTY
-1F55D ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕝) CLOCK FACE TWO-THIRTY
-1F55E ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕞) CLOCK FACE THREE-THIRTY
-1F55F ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕟) CLOCK FACE FOUR-THIRTY
-1F560 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕠) CLOCK FACE FIVE-THIRTY
-1F561 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕡) CLOCK FACE SIX-THIRTY
-1F562 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕢) CLOCK FACE SEVEN-THIRTY
-1F563 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕣) CLOCK FACE EIGHT-THIRTY
-1F564 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕤) CLOCK FACE NINE-THIRTY
-1F565 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕥) CLOCK FACE TEN-THIRTY
-1F566 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕦) CLOCK FACE ELEVEN-THIRTY
-1F567 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕧) CLOCK FACE TWELVE-THIRTY
 1F595 ;	emoji ;	L2 ;	secondary ;	x	# V7.0 (🖕) REVERSED HAND WITH IDDLE FINGER EXTENDED
 1F596 ;	emoji ;	L2 ;	secondary ;	x	# V7.0 (🖖) RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS
 1F600 ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😀) GRINNING FACE
