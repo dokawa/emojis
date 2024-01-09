@@ -8,7 +8,6 @@
 2693 ;	emoji ;	L1 ;	none ;	a j	# V4.1 (⚓) ANCHO
 26A1 ;	emoji ;	L1 ;	none ;	a j	# V4.0 (⚡) HIGH OLTAGE SIGN
 26BD ;	emoji ;	L1 ;	none ;	j	# V5.2 (⚽) SOCCER BAL
-26BE ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⚾) BASEBALL
 26C4 ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛄) SNOWMAN WITHOUT SNOW
 26C5 ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛅) SUN BEHIND CLOUD
 26D4 ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛔) NO ENTR
@@ -161,9 +160,6 @@
 1F3AE ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎮) VIDEO GAME
 1F3AF ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎯) DIRECT HIT
 1F3B0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎰) SLOT MACHINE
-1F3B1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎱) BILLIARDS
-1F3B2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎲) GAME DIE
-1F3B3 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎳) BOWLING
 1F3B4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎴) FLOWER PLAYING CARDS
 1F3B5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎵) MUSICAL NOTE
 1F3B6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎶) MULTIPLE MUSICAL NOTES
@@ -174,24 +170,10 @@
 1F3BB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎻) VIOLIN
 1F3BC ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎼) MUSICAL SCORE
 1F3BD ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎽) RUNNING SHIRT WITH SASH
-1F3BE ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎾) TENNIS RACQUET AND BALL
 1F3BF ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎿) SKI AND SKI BOOT
-1F3C0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏀) BASKETBALL AND HOOP
 1F3C1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏁) CHEQUERED FLAG
-1F3C2 ;	emoji ;	L1 ;	secondary ;	j w	# V6.0 (🏂) SNOWBOARDER
-1F3C3 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🏃) RUNNER
-1F3C4 ;	emoji ;	L1 ;	secondary ;	j w	# V6.0 (🏄) SURFER
 1F3C5 ;	emoji ;	L2 ;	none ;	x	# V7.0 (🏅) SPORTS MEDAL
 1F3C6 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🏆) TROPHY
-1F3C7 ;	emoji ;	L1 ;	secondary ;	x	# V6.0 (🏇) HORSE RACING
-1F3C8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏈) AMERICAN FOOTBALL
-1F3C9 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🏉) RUGBY FOOTBALL
-1F3CA ;	emoji ;	L1 ;	secondary ;	j w	# V6.0 (🏊) SWIMMER
-1F3CF ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏏) CRICKET BA AND BALL
-1F3D0 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏐) VOLLEYBALL
-1F3D1 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏑) FIELD HOCKEY STICK AND BALL
-1F3D2 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏒) ICE HOCKEY STICK AND PUCK
-1F3D3 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏓) TABLE TENNIS PADDLE AND BALL
 1F3E0 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🏠) HOUSE BUILDIN
 1F3E1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏡) HOUSE WITH GARDEN
 1F3E2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏢) OFFICE BUILDING
@@ -208,7 +190,6 @@
 1F3EE ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏮) IZAKAYA LANTERN
 1F3F0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏰) EUROPEAN CASTLE
 1F3F4 ;	emoji ;	L2 ;	none ;	x	# V7.0 (🏴) WAVING BLACK FAG
-1F3F8 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏸) BADMINTON RACQUE AND SHUTTLECOCK
 1F3F9 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏹) BOW AND ARROW
 1F3FA ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏺) AMPHORA
 1F400 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐀) RAT
@@ -545,7 +526,6 @@
 1F6A0 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚠) MOUNTAIN CABLEWAY
 1F6A1 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚡) AERIAL TRAMWAY
 1F6A2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚢) SHIP
-1F6A3 ;	emoji ;	L1 ;	secondary ;	x	# V6.0 (🚣) ROWBOAT
 1F6A4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚤) SPEEDBOAT
 1F6A5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚥) HORIZONTAL TRAFFIC LIGHT
 1F6A6 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚦) VERTICAL TRAFFIC LIGHT
