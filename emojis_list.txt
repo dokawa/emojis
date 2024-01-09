@@ -1,5 +1,9 @@
 231A ;	emoji ;	L1 ;	none ;	j	# V1.1 (⌚) WATCH
 231B ;	emoji ;	L1 ;	none ;	j	# V1.1 (⌛) HOURGLASS
+23E9 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (⏩) BLACK RIGHT-POINTING DOUBLE TRIANGLE
+23EA ;	emoji ;	L1 ;	none ;	j w	# V6.0 (⏪) BLACK LEFT-POINTING DOUBLE TRIANGLE
+23EB ;	emoji ;	L1 ;	none ;	j	# V6.0 (⏫) BLACK UP-POINTING DOUBLE TRIANGLE
+23EC ;	emoji ;	L1 ;	none ;	j	# V6.0 (⏬) BLACK DOWN-POINTING DOUBLE TRIANGLE
 23F0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (⏰) ALARM CLOCK
 23F3 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (⏳) HOURGLASS WITH FLOWING SAND
 25FD ;	emoji ;	L1 ;	none ;	j	# V3.2 (◽) WHITE MEDIUM SMALL SQUARE
