@@ -310,8 +310,6 @@
 1F47E ;	emoji ;	L1 ;	none ;	j	# V6.0 (👾) ALIEN MONSTER
 1F47F ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (👿) IMP
 1F480 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💀) SKULL
-1F481 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (💁) INFORMATION DESK PERSON
-1F482 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (💂) GUARDSMAN
 1F483 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (💃) DANCER
 1F484 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💄) LIPSTICK
 1F485 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (💅) NAIL POLISH
