@@ -668,19 +668,10 @@
 1F6B6 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🚶) PEDESTRIAN
 1F6B7 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚷) NO PEDESTRIANS
 1F6B8 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚸) CHILDREN CROSSING
-1F6B9 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚹) MENS SYMBOL
-1F6BA ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚺) WOMENS SYMBOL
-1F6BB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚻) RESTROOM
-1F6BC ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚼) BABY SYMBOL
 1F6BD ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚽) TOILET
-1F6BE ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚾) WATER CLOSET
 1F6BF ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚿) SHOWER
 1F6C0 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🛀) BATH
 1F6C1 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🛁) BATHTUB
-1F6C2 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🛂) PASSPORT CONTROL
-1F6C3 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🛃) CUSTOMS
-1F6C4 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🛄) BAGGAGE CLAIM
-1F6C5 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🛅) LEFT LUGGAGE
 1F6CC ;	emoji ;	L2 ;	none ;	x	# V7.0 (🛌) SLEEPING ACOMMODATION
 1F6D0 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🛐) PLACE OF WORSHI
 1F6EB ;	emoji ;	L2 ;	none ;	x	# V7.0 (🛫) AIRPLANE DEPARTRE
