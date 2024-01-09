@@ -65,7 +65,6 @@
 1F393 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎓) GRADUATION CAP
 1F3A4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎤) MICROPHONE
 1F3A5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎥) MOVIE CAMERA
-1F3A6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎦) CINEMA
 1F3A7 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎧) HEADPHONE
 1F3A8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎨) ARTIST PALETTE
 1F3A9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎩) TOP HAT
@@ -73,36 +72,19 @@
 1F3AE ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎮) VIDEO GAME
 1F3AF ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎯) DIRECT HIT
 1F3B5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎵) MUSICAL NOTE
-1F3B6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎶) MULTIPLE MUSICAL NOTES
-1F3B7 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎷) SAXOPHONE
-1F3B8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎸) GUITAR
-1F3B9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎹) MUSICAL KEYBOARD
-1F3BA ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎺) TRUMPET
-1F3BB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎻) VIOLIN
-1F3BC ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎼) MUSICAL SCORE
-1F3BD ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎽) RUNNING SHIRT WITH SASH
-1F3BF ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎿) SKI AND SKI BOOT
-1F3C1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏁) CHEQUERED FLAG
 1F3C5 ;	emoji ;	L2 ;	none ;	x	# V7.0 (🏅) SPORTS MEDAL
 1F3C6 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🏆) TROPHY
 1F3E0 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🏠) HOUSE BUILDIN
-1F3E1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏡) HOUSE WITH GARDEN
 1F3E2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏢) OFFICE BUILDING
-1F3E4 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🏤) EUROPEAN POST OFFICE
 1F3E5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏥) HOSPITAL
 1F3E6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏦) BANK
-1F3E7 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏧) AUTOMATED TELLER MACHINE
 1F3E8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏨) HOTEL
 1F3E9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏩) LOVE HOTEL
 1F3EA ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏪) CONVENIENCE STORE
 1F3EB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏫) SCHOOL
-1F3EC ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏬) DEPARTMENT STORE
 1F3ED ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🏭) FACTORY
-1F3EE ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏮) IZAKAYA LANTERN
 1F3F0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏰) EUROPEAN CASTLE
-1F3F4 ;	emoji ;	L2 ;	none ;	x	# V7.0 (🏴) WAVING BLACK FAG
 1F3F9 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏹) BOW AND ARROW
-1F3FA ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏺) AMPHORA
 1F401 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐁) MOUSE
 1F404 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐄) COW
 1F408 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🐈) CAT
@@ -111,7 +93,6 @@
 1F415 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🐕) DOG
 1F41F ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🐟) FISH
 1F426 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🐦) BIRD
-1F43E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🐾) PAW PRINTS
 1F440 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👀) EYE
 1F442 ;	emoji ;	L1 ;	secondary ;	j w	# V6.0 (👂)EAR
 1F443 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (👃) NOSE
@@ -129,58 +110,34 @@
 1F44F ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (👏) CLAPPING HANDS SIGN
 1F450 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (👐) OPEN HANDS SIGN
 1F451 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👑) CROWN
-1F452 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👒) WOMANS HAT
 1F453 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (👓) EYEGLASSES
 1F454 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👔) NECKTIE
 1F455 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👕) T-SHIRT
 1F456 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👖) JEANS
 1F457 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👗) DRESS
-1F458 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👘) KIMONO
 1F459 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👙) BIKINI
 1F45A ;	emoji ;	L1 ;	none ;	j	# V6.0 (👚) WOMANS CLOTHES
-1F45B ;	emoji ;	L1 ;	none ;	j	# V6.0 (👛) PURSE
 1F45C ;	emoji ;	L1 ;	none ;	j	# V6.0 (👜) HANDBAG
-1F45D ;	emoji ;	L1 ;	none ;	j	# V6.0 (👝) POUCH
 1F45E ;	emoji ;	L1 ;	none ;	j	# V6.0 (👞) MANS SHOE
 1F45F ;	emoji ;	L1 ;	none ;	j	# V6.0 (👟) ATHLETIC SHOE
 1F460 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👠) HIGH-HEELED SHOE
 1F461 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👡) WOMANS SANDAL
 1F462 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👢) WOMANS BOOTS
-1F463 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👣) FOOTPRINTS
-1F464 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👤) BUST IN SILHOUETTE
-1F465 ;	emoji ;	L1 ;	none ;	x	# V6.0 (👥) BUSTS IN SILHOUETTE
 1F466 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👦) BOY
 1F467 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👧) GIRL
 1F468 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👨) MAN
 1F469 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👩) WOMAN
-1F46A ;	emoji ;	L1 ;	none ;	j w	# V6.0 (👪) FAMILY
 1F46E ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👮) POLICE OFFICER
-1F46F ;	emoji ;	L1 ;	none ;	j	# V6.0 (👯) WOMAN WITH BUNNY EARS
-1F470 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👰) BRIDE WITH VEIL
-1F471 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👱) PERSON WITH BLOND HAIR
-1F472 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👲) MAN WITH GUA PI MAO
-1F473 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👳) MAN WITH TURBAN
-1F474 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👴) OLDER MAN
-1F475 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👵) OLDER WOMAN
-1F476 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👶) BABY
-1F477 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👷) CONSTRUCTION WORKER
-1F478 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👸) PRINCESS
 1F47B ;	emoji ;	L1 ;	none ;	j	# V6.0 (👻) GHOST
-1F47C ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👼) BABY ANGEL
 1F47D ;	emoji ;	L1 ;	none ;	j w	# V6.0 (👽) EXTRATERRESTRIAL ALIEN
 1F47E ;	emoji ;	L1 ;	none ;	j	# V6.0 (👾) ALIEN MONSTER
 1F47F ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (👿) IMP
 1F480 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💀) SKULL
 1F483 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (💃) DANCER
 1F484 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💄) LIPSTICK
-1F485 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (💅) NAIL POLISH
-1F486 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (💆) FACE MASSAGE
-1F487 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (💇) HAIRCUT
-1F488 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💈) BARBER POLE
 1F489 ;	emoji ;	L1 ;	none ;	j	# V6.0 (💉) SYRINGE
 1F48A ;	emoji ;	L1 ;	none ;	j	# V6.0 (💊) PILL
 1F48B ;	emoji ;	L1 ;	none ;	j	# V6.0 (💋) KISS MARK
-1F48C ;	emoji ;	L1 ;	none ;	j	# V6.0 (💌) LOVE LETTER
 1F48D ;	emoji ;	L1 ;	none ;	j	# V6.0 (💍) RING
 1F48E ;	emoji ;	L1 ;	none ;	j	# V6.0 (💎) GEM STONE
 1F48F ;	emoji ;	L1 ;	none ;	j	# V6.0 (💏) KISS
