@@ -228,11 +228,6 @@
 1F3F8 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏸) BADMINTON RACQUE AND SHUTTLECOCK
 1F3F9 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏹) BOW AND ARROW
 1F3FA ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏺) AMPHORA
-1F3FB ;	emoji ;	L2 ;	modifier ;	x	# V8.0 (🏻) EMOJI MODIFIER FITZPATRICK TYPE-1-2
-1F3FC ;	emoji ;	L2 ;	modifier ;	x	# V8.0 (🏼) EMOJI MODIFIER FITZPATRICK TYPE-3
-1F3FD ;	emoji ;	L2 ;	modifier ;	x	# V8.0 (🏽) EMOJI MODIFIER FITZPATRICK TYPE-4
-1F3FE ;	emoji ;	L2 ;	modifier ;	x	# V8.0 (🏾) EMOJI MODIFIER FITZPATRICK TYPE-5
-1F3FF ;	emoji ;	L2 ;	modifier ;	x	# V8.0 (🏿) EMOJI MODIFIER FITZPATRICK TYPE-6
 1F400 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐀) RAT
 1F401 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐁) MOUSE
 1F402 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🐂) OX
