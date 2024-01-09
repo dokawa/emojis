@@ -29,32 +29,6 @@
 274E ;	emoji ;	L1 ;	none ;	j	# V6.0 (❎) NEGATIVE SQUARED CROSS MARK
 2B50 ;	emoji ;	L1 ;	none ;	j	# V5.1 (⭐) WHITE MEDIUM STAR
 2B55 ;	emoji ;	L1 ;	none ;	j	# V5.2 (⭕) HEAVY LARGE CIRCLE
-1F004 ;	emoji ;	L1 ;	none ;	j	# V5.1 (🀄) MAHJONG TILE RED RAGON
-1F0CF ;	emoji ;	L1 ;	none ;	j	# V6.0 (🃏) PLAYING CARD BLACK JOKER
-1F18E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🆎) NEGATIVE SQUARED A
-1F191 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🆑) SQUARED CL
-1F192 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🆒) SQUARED COOL
-1F193 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🆓) SQUARED FREE
-1F194 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🆔) SQUARED ID
-1F195 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🆕) SQUARED NEW
-1F196 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🆖) SQUARED NG
-1F197 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🆗) SQUARED OK
-1F198 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🆘) SQUARED SOS
-1F199 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🆙) SQUARED UP WITH EXCLAMATION MARK
-1F19A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🆚) SQUARED VS
-1F201 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🈁) SQUARED KATAKANA KOKO
-1F21A ;	emoji ;	L1 ;	none ;	a j	# V5.2 (🈚) SQUARED CJK UNIFIED DEOGRAPH-7121
-1F22F ;	emoji ;	L1 ;	none ;	a j	# V5.2 (🈯) SQUARED CJK UNIFIED IDEOGRAPH-6307
-1F232 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🈲) SQUARED CJK UNIFIED IDEOGRAPH-7981
-1F233 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🈳) SQUARED CJK UNIFIED IDEOGRAPH-7A7A
-1F234 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🈴) SQUARED CJK UNIFIED IDEOGRAPH-5408
-1F235 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🈵) SQUARED CJK UNIFIED IDEOGRAPH-6E80
-1F236 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🈶) SQUARED CJK UNIFIED IDEOGRAPH-6709
-1F238 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🈸) SQUARED CJK UNIFIED IDEOGRAPH-753
-1F239 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🈹) SQUARED CJK UNIFIED IDEOGRAPH-5272
-1F23A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🈺) SQUARED CJK UNIFIED IDEOGRAPH-55B6
-1F250 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🉐) CIRCLED IDEOGRAPH ADVANTAGE
-1F251 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🉑) CIRCLED IDEOGRAPH ACCEPT
 1F300 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌀) CYCLONE
 1F301 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌁) FOGGY
 1F302 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🌂) CLOSED UMBRELLA
