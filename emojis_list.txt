@@ -124,21 +124,15 @@
 1F388 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎈) BALLOON
 1F389 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎉) PARTY POPPER
 1F393 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎓) GRADUATION CAP
-1F3A0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎠) CAROUSEL HORS
 1F3A4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎤) MICROPHONE
 1F3A5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎥) MOVIE CAMERA
 1F3A6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎦) CINEMA
 1F3A7 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎧) HEADPHONE
 1F3A8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎨) ARTIST PALETTE
 1F3A9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎩) TOP HAT
-1F3AA ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎪) CIRCUS TENT
-1F3AB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎫) TICKET
 1F3AC ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎬) CLAPPER BOARD
-1F3AD ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎭) PERFORMING ARTS
 1F3AE ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🎮) VIDEO GAME
 1F3AF ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎯) DIRECT HIT
-1F3B0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎰) SLOT MACHINE
-1F3B4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎴) FLOWER PLAYING CARDS
 1F3B5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎵) MUSICAL NOTE
 1F3B6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎶) MULTIPLE MUSICAL NOTES
 1F3B7 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎷) SAXOPHONE
