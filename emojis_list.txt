@@ -127,7 +127,6 @@
 1F467 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👧) GIRL
 1F468 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👨) MAN
 1F469 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👩) WOMAN
-1F46E ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👮) POLICE OFFICER
 1F47B ;	emoji ;	L1 ;	none ;	j	# V6.0 (👻) GHOST
 1F47D ;	emoji ;	L1 ;	none ;	j w	# V6.0 (👽) EXTRATERRESTRIAL ALIEN
 1F47E ;	emoji ;	L1 ;	none ;	j	# V6.0 (👾) ALIEN MONSTER
@@ -280,11 +279,7 @@
 1F69A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚚) DELIVERY TRUCK
 1F69C ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚜) TRACTOR
 1F6A2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚢) SHIP
-1F6A5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚥) HORIZONTAL TRAFFIC LIGHT
-1F6A6 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚦) VERTICAL TRAFFIC LIGHT
-1F6A7 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚧) CONSTRUCTION SIGN
 1F6A8 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚨) POLICE CARS REVOLVING LIGHT
-1F6A9 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚩) TRIANGULAR FLAG ON POST
 1F6AA ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚪) DOOR
 1F6AC ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚬) SMOKING SYMBOL
 1F6B2 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚲) BICYCLE
