@@ -139,7 +139,6 @@
 1F38B ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎋) TANABATA TREE
 1F38C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎌) CROSSED FLAGS
 1F38D ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎍) PINE DECORATION
-1F38E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎎) JAPANESE DOLLS
 1F38F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎏) CARP STREAMER
 1F390 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎐) WIND CHIME
 1F391 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🎑) MOON VIEWING CEREMONY
@@ -196,7 +195,6 @@
 1F3E0 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🏠) HOUSE BUILDIN
 1F3E1 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏡) HOUSE WITH GARDEN
 1F3E2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏢) OFFICE BUILDING
-1F3E3 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏣) JAPANESE POST OFFICE
 1F3E4 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🏤) EUROPEAN POST OFFICE
 1F3E5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏥) HOSPITAL
 1F3E6 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏦) BANK
@@ -208,7 +206,6 @@
 1F3EC ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏬) DEPARTMENT STORE
 1F3ED ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🏭) FACTORY
 1F3EE ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏮) IZAKAYA LANTERN
-1F3EF ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏯) JAPANESE CASTLE
 1F3F0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🏰) EUROPEAN CASTLE
 1F3F4 ;	emoji ;	L2 ;	none ;	x	# V7.0 (🏴) WAVING BLACK FAG
 1F3F8 ;	emoji ;	L2 ;	none ;	x	# V8.0 (🏸) BADMINTON RACQUE AND SHUTTLECOCK
@@ -333,8 +330,6 @@
 1F476 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👶) BABY
 1F477 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👷) CONSTRUCTION WORKER
 1F478 ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👸) PRINCESS
-1F479 ;	emoji ;	L1 ;	none ;	j	# V6.0 (👹) JAPANESE OGRE
-1F47A ;	emoji ;	L1 ;	none ;	j	# V6.0 (👺) JAPANESE GOBLIN
 1F47B ;	emoji ;	L1 ;	none ;	j	# V6.0 (👻) GHOST
 1F47C ;	emoji ;	L1 ;	primary ;	j	# V6.0 (👼) BABY ANGEL
 1F47D ;	emoji ;	L1 ;	none ;	j w	# V6.0 (👽) EXTRATERRESTRIAL ALIEN
@@ -509,7 +504,6 @@
 1F52D ;	emoji ;	L1 ;	none ;	x	# V6.0 (🔭) TELESCOPE
 1F52E ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔮) CRYSTAL BALL
 1F52F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔯) SIX POINTED STAR WITH MIDDLE DOT
-1F530 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔰) JAPANESE SYMBOL FOR BEGINNER
 1F531 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🔱) TRIDENT EMBLEM
 1F54B ;	emoji ;	L2 ;	none ;	x	# V8.0 (🕋) KAAB
 1F54C ;	emoji ;	L2 ;	none ;	x	# V8.0 (🕌) MOSQUE
