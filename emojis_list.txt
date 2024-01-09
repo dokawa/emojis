@@ -11,7 +11,6 @@
 26BE ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⚾) BASEBALL
 26C4 ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛄) SNOWMAN WITHOUT SNOW
 26C5 ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛅) SUN BEHIND CLOUD
-26CE ;	emoji ;	L1 ;	none ;	a j	# V6.0 (⛎) OPHIUCHU
 26D4 ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛔) NO ENTR
 26EA ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛪) CHURC
 26F2 ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛲) FOUNTIN
