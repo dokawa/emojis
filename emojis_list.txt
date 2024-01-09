@@ -493,36 +493,16 @@
 1F64F ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (🙏) PERSON WITH FOLDED HANDS
 1F680 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚀) ROCKET
 1F681 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚁) HELICOPTER
-1F682 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚂) STEAM LOCOMOTIVE
 1F683 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚃) RAILWAY CAR
-1F684 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚄) HIGH-SPEED TRAIN
-1F685 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚅) HIGH-SPEED TRAIN WITH BULLET NOSE
-1F686 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚆) TRAIN
-1F687 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚇) METRO
-1F688 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚈) LIGHT RAIL
-1F689 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚉) STATION
-1F68A ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚊) TRAM
-1F68B ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚋) TRAM CAR
 1F68C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚌) BUS
-1F68E ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚎) TROLLEYBUS
-1F68F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚏) BUS STOP
-1F690 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚐) MINIBUS
 1F691 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚑) AMBULANCE
 1F692 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚒) FIRE ENGINE
 1F693 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚓) POLICE CAR
 1F695 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚕) TAXI
 1F697 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚗) AUTOMOBILE
-1F699 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚙) RECREATIONAL VEHICLE
 1F69A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚚) DELIVERY TRUCK
-1F69B ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚛) ARTICULATED LORRY
 1F69C ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚜) TRACTOR
-1F69D ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚝) MONORAIL
-1F69E ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚞) MOUNTAIN RAILWAY
-1F69F ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚟) SUSPENSION RAILWAY
-1F6A0 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚠) MOUNTAIN CABLEWAY
-1F6A1 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚡) AERIAL TRAMWAY
 1F6A2 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚢) SHIP
-1F6A4 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚤) SPEEDBOAT
 1F6A5 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚥) HORIZONTAL TRAFFIC LIGHT
 1F6A6 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚦) VERTICAL TRAFFIC LIGHT
 1F6A7 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚧) CONSTRUCTION SIGN
