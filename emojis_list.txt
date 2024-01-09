@@ -16,7 +16,7 @@
 26F2 ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛲) FOUNTIN
 26F3 ;	emoji ;	L1 ;	none ;	a j w	# V5.2 (⛳) FLAG IN HOLE
 26F5 ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛵) SAILBOA
-26FA ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛺) TEN
+26FA ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛺) TENT
 26FD ;	emoji ;	L1 ;	none ;	a j	# V5.2 (⛽) FUEL PUMP
 2705 ;	emoji ;	L1 ;	none ;	j	# V6.0 (✅) WHITE HEVY CHECK MARK
 270A ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (✊) RAISED FIS
