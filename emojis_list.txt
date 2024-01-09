@@ -22,7 +22,6 @@
 270A ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (✊) RAISED FIS
 270B ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (✋) RAISED HAND
 2728 ;	emoji ;	L1 ;	none ;	j	# V6.0 (✨) SPARKLE
-274C ;	emoji ;	L1 ;	none ;	j	# V6.0 (❌) CROSS MRK
 274E ;	emoji ;	L1 ;	none ;	j	# V6.0 (❎) NEGATIVE SQUARED CROSS MARK
 2B50 ;	emoji ;	L1 ;	none ;	j	# V5.1 (⭐) WHITE MEDIUM STAR
 2B55 ;	emoji ;	L1 ;	none ;	j	# V5.2 (⭕) HEAVY LARGE CIRCLE
