@@ -2,8 +2,6 @@
 231B ;	emoji ;	L1 ;	none ;	j	# V1.1 (⌛) HOURGLASS
 23F0 ;	emoji ;	L1 ;	none ;	j	# V6.0 (⏰) ALARM CLOC
 23F3 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (⏳) HOURGLASS ITH FLOWING SAND
-25FD ;	emoji ;	L1 ;	none ;	j	# V3.2 (◽) WHITE MEDIUM SMALL SQUAR
-25FE ;	emoji ;	L1 ;	none ;	j w	# V3.2 (◾) BLACK MEDIUM SMALL SQUARE
 2614 ;	emoji ;	L1 ;	none ;	a j	# V4.0 (☔) UMBRELLA WITH RAIN DROP
 2615 ;	emoji ;	L1 ;	none ;	j	# V4.0 (☕) HOT BEVERAGE
 2648 ;	emoji ;	L1 ;	none ;	j w	# V1.1 (♈) ARIE
