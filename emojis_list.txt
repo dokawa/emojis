@@ -504,18 +504,14 @@
 1F68A ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚊) TRAM
 1F68B ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚋) TRAM CAR
 1F68C ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚌) BUS
-1F68D ;	emoji ;	L1 ;	none ;	w	# V6.0 (🚍) ONCOMING BUS
 1F68E ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚎) TROLLEYBUS
 1F68F ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚏) BUS STOP
 1F690 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚐) MINIBUS
 1F691 ;	emoji ;	L1 ;	none ;	j w	# V6.0 (🚑) AMBULANCE
 1F692 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚒) FIRE ENGINE
 1F693 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚓) POLICE CAR
-1F694 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🚔) ONCOMING POLICE CAR
 1F695 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚕) TAXI
-1F696 ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚖) ONCOMING TAXI
 1F697 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚗) AUTOMOBILE
-1F698 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🚘) ONCOMING AUTOMOBILE
 1F699 ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚙) RECREATIONAL VEHICLE
 1F69A ;	emoji ;	L1 ;	none ;	j	# V6.0 (🚚) DELIVERY TRUCK
 1F69B ;	emoji ;	L1 ;	none ;	x	# V6.0 (🚛) ARTICULATED LORRY
