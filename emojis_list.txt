@@ -535,11 +535,6 @@
 1F567 ;	emoji ;	L1 ;	none ;	w	# V6.0 (🕧) CLOCK FACE TWELVE-THIRTY
 1F595 ;	emoji ;	L2 ;	secondary ;	x	# V7.0 (🖕) REVERSED HAND WITH IDDLE FINGER EXTENDED
 1F596 ;	emoji ;	L2 ;	secondary ;	x	# V7.0 (🖖) RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS
-1F5FB ;	emoji ;	L1 ;	none ;	j	# V6.0 (🗻) MOUNT FUJ
-1F5FC ;	emoji ;	L1 ;	none ;	j	# V6.0 (🗼) TOKYO TOWER
-1F5FD ;	emoji ;	L1 ;	none ;	j	# V6.0 (🗽) STATUE OF LIBERTY
-1F5FE ;	emoji ;	L1 ;	none ;	j	# V6.0 (🗾) SILHOUETTE OF JAPAN
-1F5FF ;	emoji ;	L1 ;	none ;	j	# V6.0 (🗿) MOYAI
 1F600 ;	emoji ;	L1 ;	secondary ;	x	# V6.1 (😀) GRINNING FACE
 1F601 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😁) GRINNING FACE WITH SMILING EYES
 1F602 ;	emoji ;	L1 ;	secondary ;	j	# V6.0 (😂) FACE WITH TEARS OF JOY
